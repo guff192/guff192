@@ -16,7 +16,7 @@ My name is Konstantin and I'm a backend developer (but can do some frontend with
   - Django Rest Framework
   - Gin Web Framework (Golang)
   - FastAPI
-- **Frontend tecnologies:**
+- **Frontend:**
   - HTML5
   - CSS3 (Flex, Grid, Adaptive)
   - Tilda
