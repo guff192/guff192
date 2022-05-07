@@ -19,8 +19,8 @@ My name is Konstantin and I'm a backend developer (but can do some frontend with
 - **Frontend:**
   - HTML5
   - CSS3 (Flex, Grid, Adaptive)
-  - Tilda
   - Vue.js
+  - Tilda
 - **Deployment:**
   - Git
   - Docker
