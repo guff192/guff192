@@ -1,6 +1,6 @@
 
 # Hi there 👋
-My name is Konstantin and I'm a backend developer (but can do some frontend with a bit of beer).
+My name is Konstantin and I'm a backend developer.
 ## My hard skills
 - **Programming languages:**
   - Python3
