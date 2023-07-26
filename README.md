@@ -1,6 +1,8 @@
 
 # Hi there 👋
-My name is Konstantin and I'm a backend developer.
+My name is Konstantin and I'm a full-stack developer.
+
+<!--
 ## My hard skills
 - **Programming languages:**
   - Python3
@@ -28,7 +30,7 @@ My name is Konstantin and I'm a backend developer.
    - Linux
    - Vim
    - SSH
-<!--
+
 **guff192/guff192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
