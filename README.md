@@ -2,6 +2,8 @@
 # Hi there 👋
 My name is Konstantin and I'm a full-stack web developer.
 - 🔭 I’m currently working on eCommerce [site](https://github.com/guff192/htmx-online-store) powered with htmx and fastapi
+
+## Серёга, маркдаун ==это топ==
 <!--
 ## My hard skills
 - **Programming languages:**
