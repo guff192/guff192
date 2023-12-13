@@ -3,6 +3,7 @@
 My name is Konstantin and I'm a full-stack web developer.
 - 🔭 I’m currently working on eCommerce [site](https://github.com/guff192/htmx-online-store) powered with htmx and fastapi
 
+<!--
 ## Серёга, маркдаун это топ:
 - Разные варианты форматирования из коробки
 - Простой текст. Никакого Ворд, Эксель и прочего кала. По сути можно редактировать в любом текстовом редакторе
@@ -19,7 +20,7 @@ My name is Konstantin and I'm a full-stack web developer.
 |Google keep| 8|
 |блокнот и ручка | 7+ |
 
-<!--
+
 ## My hard skills
 - **Programming languages:**
   - Python3
