@@ -1,7 +1,7 @@
 
 # Konstantin Kochetkov
 My name is Konstantin and I'm a full-stack web developer.
-- 🔭 I’m currently working on [IoT manager](https://github.com/guff192/IoT-manager) － a project that aims to simplify remote managing of IoT devices.
+- 🔭 I’m currently working on [pelmeni](https://github.com/guff192/pelmeni) － an AI dev harness that aims to build your own development pipeline using different types of agents.
 
 <!--
 ## Серёга, маркдаун это топ:
